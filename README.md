@@ -8,9 +8,10 @@ This work is inspired by [Jeremy Kun's Random (Psychedelic) Art](https://jeremyk
 Each time the progam is run a different pattern will appear. <br/>
 It is possible to save each frame as a picture and then use processing movie maker to make a video.<br/>
 If the pixel size is 1, then it will take some time to run on large canvas size.
+<br/>
+<br/>
 
-
-[Youtube link 1](https://www.youtube.com/watch?v=CFmZpzKnICs)
+[Youtube link 1](https://www.youtube.com/watch?v=CFmZpzKnICs)<br/>
 [Youtube link 2](https://www.youtube.com/watch?v=uxsPkeyWwww)
 
 
