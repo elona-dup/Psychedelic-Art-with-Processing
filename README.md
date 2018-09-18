@@ -10,7 +10,8 @@ It is possible to save each frame as a picture and then use processing movie mak
 If the pixel size is 1, then it will take some time to run on large canvas size.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CFmZpzKnICs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[Youtube link 1](https://www.youtube.com/watch?v=CFmZpzKnICs)
+[Youtube link 2](https://www.youtube.com/watch?v=uxsPkeyWwww)
 
 
 
